@@ -17,7 +17,7 @@ body, html {
 }
 
 .bg-text {
-  background-color: #fff;
+  background-color: #75afee;
   color: #000;
   font-weight: bold;
   border: 3px solid #f1f1f1;
