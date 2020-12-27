@@ -8,6 +8,8 @@ $c=1;
 <style>
 body, html {
   height: 100%;
+	  background-color: #007bff;
+
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
