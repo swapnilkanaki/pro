@@ -9,7 +9,6 @@ $c=1;
 body, html {
   height: 100%;
 	  background-color: #007bff;
-
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -58,6 +57,7 @@ body, html {
 <div class="container">
     
 		<form class="bg-text" name="myform" id="text_field" method="post" action="system_sem_databases_create.php">
+			<h1> testing app </h1>
 			<h2> Enter Semester Data </h2>
 			
 			Year <input class="form-control" type="number" name="year" required placeholder="20--"/><br>
